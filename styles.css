@@ -1,9 +1,26 @@
+/* style.css */
+
 body {
   font-family: Arial, sans-serif;
-  background-color: #ED846D;
+  margin: 0;
+  padding: 0;
 }
 
-h1 {
-  color: green;
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
   text-align: center;
+}
+
+nav {
+  background-color: #f0f0f0;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  margin: 10px;
 }
